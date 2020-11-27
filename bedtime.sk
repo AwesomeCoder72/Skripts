@@ -1,3 +1,10 @@
 on bed enter:
     set time to 7:00
-    broadcast "Tada!!! It's daytime"
+    broadcast "<red>T<orange>a<yellow>d<green>a<blue>!<purple>!<red>! <orange>I<orange>t<yellow>'<green>s <blue>d<purple>a<red>y <orange>t<yellow>i<green>m<blue>e<purple>."
+
+# red
+# orange
+# yellow
+# green
+# blue
+# purple
