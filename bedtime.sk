@@ -1,0 +1,3 @@
+on bed enter:
+    time set 7:00
+    broadcast "Tada!!! It's daytime"
